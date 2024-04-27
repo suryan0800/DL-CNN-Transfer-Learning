@@ -49,7 +49,9 @@ Chest CT Scan
 
 ## Plots
 ![Evaluation Metrics](./evaluation_metrics.png)
-
+***
 ![F1 Score](./model_vs_class_f1-score.png)
-
+***
 ![Loss History](./LossVal_loss.png)
+***
+![Accuracy History](./accuracyVal_accuracy.png)
